@@ -15,4 +15,12 @@ Brest, Belarus
 - Python
 - Scrum
 
+### CODE EXAPLE
+```
+function multiply(a, b){
+ return a * b;
+}
+console.log(multiply);
+```
+
  ### English A2 
