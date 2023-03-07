@@ -15,7 +15,7 @@ Brest, Belarus
 - Python
 - Scrum
 
-### CODE EXAPLE
+### CODE EXAMPLE
 ```
 function multiply(a, b){
  return a * b;
