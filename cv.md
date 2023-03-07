@@ -22,5 +22,7 @@ function multiply(a, b){
 }
 console.log(multiply);
 ```
+### EXPERIENCE
+- [CV](https://ravenishka.github.io/rsschool-cv/cv)
 
  ### English A2 
