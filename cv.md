@@ -11,7 +11,8 @@ Brest, Belarus
 - Web Development
 - HTML
 - CSS
-- Scrum
 - JavaScript
+- Python
+- Scrum
 
  ### English A2 
