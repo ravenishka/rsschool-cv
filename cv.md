@@ -25,4 +25,13 @@ console.log(multiply);
 ### EXPERIENCE
 - [CV](https://ravenishka.github.io/rsschool-cv/cv)
 
+### EDUCATION
+- [HTML](https://code-basics.com/ru/languages/html)
+- [CSS](https://code-basics.com/ru/languages/css)
+- [JavaScript](https://code-basics.com/ru/languages/javascript)
+- [Generation Python: course for beginners](https://stepik.org/course/Поколение-Python-курс-для-начинающих-58852/)
+- [Generation Python: advanced course](https://stepik.org/course/Поколение-Python-курс-для-продвинутых-68343/)
+- Scrum: The Art of Doing Twice the Work in Half the Time
+by Jeff Sutherland, J.J. Sutherland
+
  ### English A2 
